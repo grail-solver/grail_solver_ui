@@ -1,0 +1,8 @@
+.submit-problem{
+    font-size: 16px;
+    color: white;
+    background-color: #212529;
+    padding: .5rem 1rem;
+    border-radius: .4rem;
+    cursor: pointer;
+}

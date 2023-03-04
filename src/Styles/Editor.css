@@ -1,0 +1,12 @@
+.content textarea{
+    min-height: calc(20rem - 2px);
+    background-color: rgba(149, 149, 149, .3);
+    font-family: cursive;
+    min-width: -webkit-fill-available;
+    max-width: -webkit-fill-available;
+    border: none;
+    text-align: justify;
+}
+.content textarea:focus{
+    border: none;
+}
