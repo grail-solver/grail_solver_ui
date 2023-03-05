@@ -1,11 +1,12 @@
 .content textarea{
-    min-height: calc(20rem - 2px);
+    min-height: calc(20rem - 9px);
     background-color: rgba(149, 149, 149, .3);
     font-family: cursive;
     min-width: -webkit-fill-available;
     max-width: -webkit-fill-available;
     border: none;
     text-align: justify;
+    padding-left: .5rem;
 }
 .content textarea:focus{
     border: none;
