@@ -40,6 +40,11 @@
     width: 100%;
     height: calc(100vh - 92px);
     display: block !important;
+    margin-bottom: 4rem;
+}
+.full .content{
+    max-height: calc(100vh - 92px) !important;
+    background-color: white;
 }
 .d-none{
     display: none;
